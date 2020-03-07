@@ -75,4 +75,3 @@ function showError(error) {
 function clearError() {
 	document.querySelector('.alert').remove();
 }
-
